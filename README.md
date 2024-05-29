@@ -15,7 +15,5 @@ As an aspiring SOC analyst, I was thrilled to complete TryHackMe's specialized t
 
 However, what truly enriched my learning experience was the exposure to new and advanced tools that I had never encountered before, such as Autopsy, Zeek, and OSquery. These tools opened up new perspectives on how to approach and handle different aspects of cybersecurity. For instance, using Autopsy for digital forensics, Zeek for network monitoring, and OSquery for endpoint security provided me with a deeper understanding of the multifaceted nature of SOC operations. This training has not only broadened my skill set but also reinforced my passion for pursuing a career in cybersecurity, particularly in SOC analysis.
 
-
-
-
 # Certificate:
+![THM](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6YZACIICQ4.png)
